@@ -1,6 +1,6 @@
 use anchor_lang::prelude::*;
 // ID del Solana Program, se llenará automáticamente al compilar con "anchor build"
-declare_id!("PUT_YOUR_PROGRAM_ID_HERE");
+declare_id!("AuCfD6ZgMH4uXnFE7M4hw6f8BPAjLP33pB1kvoy4xYgL");
 
 #[program] // Macro que convierte el código Rust en un programa Solana Anchor
 pub mod inventario_filamentos {
